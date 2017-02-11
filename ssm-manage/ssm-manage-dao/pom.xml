@@ -9,6 +9,7 @@
     </parent>
     
     <artifactId>ssm-manage-dao</artifactId>
+    <packaging>jar</packaging>
     
     <dependencies>
         
